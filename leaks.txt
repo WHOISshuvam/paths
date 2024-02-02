@@ -1,0 +1,4 @@
+.editorconfig
+.github/workflows/ci.yml
+.github/workflows/stale.yml
+.github/LICENSE
